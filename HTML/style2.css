@@ -94,7 +94,7 @@ li a {
 a:link {color: white; text-decoration: none;}
 a:visited {color: white; text-decoration: none;}
 a:hover {color: white; text-decoration: none;}
-a:active {color: white; text-decoration: none;}
+a:active {color: white; text-decoration: none; font-size: larger;}
 
 .side_home {
     background-color: #ccc;
@@ -160,4 +160,5 @@ a:active {color: white; text-decoration: none;}
 
 .homeNavBarDiv {
     width: 25%;
+    text-align: center;
 }
